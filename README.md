@@ -1,16 +1,17 @@
-## Hi there 👋
+# hiii!!!~
+i am azalea68k
 
-<!--
-**ash6502/ash6502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## interests:
+1. vintage tech
+2. fnf (mainly dave and bambi)
+3. PCB design
+4. homebrew computers
+5. old apple (m68k and PPC)
+6. technical side of scratch
 
-Here are some ideas to get you started:
+## socials
+[youtube](https://www.youtube.com/@azalea68k)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[discord server](https://discord.gg/wZhX2yF9vW)
+
+[scratch account](https://scratch.mit.edu/users/azalea68k/)
