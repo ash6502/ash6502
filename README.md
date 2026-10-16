@@ -3,7 +3,7 @@ i am azalea68k
 
 ## interests:
 1. vintage tech
-2. fnf (mainly dave and bambi)
+2. crts
 3. PCB design
 4. homebrew computers
 5. old apple (m68k and PPC)
