@@ -3,11 +3,12 @@ i am azalea68k
 
 ## interests:
 1. vintage tech
-2. crts
-3. PCB design
-4. homebrew computers
-5. old apple (m68k and PPC)
-6. technical side of scratch
+2. black MIDI
+3. crts
+4. PCB design
+5. homebrew computers
+6. old apple (m68k and PPC)
+7. technical side of scratch
 
 ## socials
 [youtube](https://www.youtube.com/@azalea68k)
